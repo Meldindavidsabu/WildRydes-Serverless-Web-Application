@@ -1,4 +1,3 @@
-
 A serverless web application using AWS Lambda, Amazon API Gateway, AWS Amplify, Amazon DynamoDB, and Amazon Cognito.
 # Wild Rydes Unicorn Rides Web Application
 
@@ -44,30 +43,39 @@ Follow these steps to bring your Wild Rydes Unicorn Rides Web Application to lif
 
 <img width="390" alt="git (original)" src="https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/ae5edc4a-73f1-46cc-b1e8-9cd1cd555c85">
 
-3. **Setting up AWS Services:**
+2. **Setting up AWS Services:**
    - **Amplify Console:** Set up Amplify Console to host your static web resources. Configure deployment settings to ensure continuous deployment.
    - **Amazon Cognito:** Create a user pool to manage user registration and authentication.
+     <img width="956" alt="cognito " src="https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/7fec9bd1-cd3b-441a-9fc6-fab73ca96dd2">
+     
    - **Amazon DynamoDB:** Establish a DynamoDB table to store ride request data.
 
-4. **Integrate ArcGIS Mapping:**
+3. **Integrate ArcGIS Mapping:**
    - Leverage your ArcGIS account to incorporate captivating maps into your application. 
 
-5. **Backend Setup:**
+4. **Backend Setup:**
    - Implement the Lambda function that handles ride requests and interacts with DynamoDB.
    - Create an API Gateway to expose the Lambda function as a RESTful API.
+     
+     <img width="960" alt="api " src="https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/977bdd1e-dce7-43bc-8e7c-1f3b6be8d086">
 
-6. **Frontend Development:**
+5. **Frontend Development:**
    - Craft a visually appealing HTML-based user interface that allows users to specify pickup locations.
    - Write JavaScript code to interact with the backend API, enabling users to request unicorn rides.
+     https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/ce35e466-6b26-409a-8d64-34410d3eb971
 
-7. **User Registration and Login:**
+6. **User Registration and Login:**
    - Integrate Amazon Cognito into your application to manage user authentication and provide registration and login functionalities.
 
-8. **Test and Deploy:**
+7. **Test and Deploy:**
    - Thoroughly test your application, ensuring that ride requests, user registration, and login functionalities work flawlessly.
+   
    - Deploy your application using Amplify Console, making it accessible to users around the world.
+   
+     <img width="953" alt="deployment" src="https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/f00b645f-02a7-49dc-b9a1-211f875f17bc">
 
 ## Embrace the Magic
+https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/e6f80c54-9858-4ad6-bdab-f67338172c5a
 
 Congratulations! You've successfully created a captivating serverless web application that brings the wonder of unicorn rides to life. By harnessing the power of AWS services and innovative frontend development, you've crafted an experience that users will cherish.
 
