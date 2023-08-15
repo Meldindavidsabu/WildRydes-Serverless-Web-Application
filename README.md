@@ -61,17 +61,20 @@ Follow these steps to bring your Wild Rydes Unicorn Rides Web Application to lif
      <img width="960" alt="api " src="https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/977bdd1e-dce7-43bc-8e7c-1f3b6be8d086">
 
 5. **Frontend Development:**
+   
+   https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/ce35e466-6b26-409a-8d64-34410d3eb971
    - Craft a visually appealing HTML-based user interface that allows users to specify pickup locations.
    - Write JavaScript code to interact with the backend API, enabling users to request unicorn rides.
-     https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/ce35e466-6b26-409a-8d64-34410d3eb971
+  
 
 6. **User Registration and Login:**
    - Integrate Amazon Cognito into your application to manage user authentication and provide registration and login functionalities.
 
 7. **Test and Deploy:**
+https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/d4e765ae-3f73-4d54-bbf4-a0121b0cab7e
    - Thoroughly test your application, ensuring that ride requests, user registration, and login functionalities work flawlessly.
    
-   - Deploy your application using Amplify Console, making it accessible to users around the world. https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/d4e765ae-3f73-4d54-bbf4-a0121b0cab7e
+   - Deploy your application using Amplify Console, making it accessible to users around the world. 
 
 ## Embrace the Magic
 https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/e6f80c54-9858-4ad6-bdab-f67338172c5a
