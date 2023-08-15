@@ -40,27 +40,30 @@ Our application's frontend interacts with the backend through a public RESTful A
 Follow these steps to bring your Wild Rydes Unicorn Rides Web Application to life:
 
 1. **Clone the Repository:** Begin by cloning the repository to your local machine.
+<img width="956" alt="resources on codecommit" src="https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/d07cf5c3-43c4-46e0-a5ed-ee6aa24cb81a">
 
-2. **Setting up AWS Services:**
+<img width="390" alt="git (original)" src="https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/ae5edc4a-73f1-46cc-b1e8-9cd1cd555c85">
+
+3. **Setting up AWS Services:**
    - **Amplify Console:** Set up Amplify Console to host your static web resources. Configure deployment settings to ensure continuous deployment.
    - **Amazon Cognito:** Create a user pool to manage user registration and authentication.
    - **Amazon DynamoDB:** Establish a DynamoDB table to store ride request data.
 
-3. **Integrate ArcGIS Mapping:**
+4. **Integrate ArcGIS Mapping:**
    - Leverage your ArcGIS account to incorporate captivating maps into your application. 
 
-4. **Backend Setup:**
+5. **Backend Setup:**
    - Implement the Lambda function that handles ride requests and interacts with DynamoDB.
    - Create an API Gateway to expose the Lambda function as a RESTful API.
 
-5. **Frontend Development:**
+6. **Frontend Development:**
    - Craft a visually appealing HTML-based user interface that allows users to specify pickup locations.
    - Write JavaScript code to interact with the backend API, enabling users to request unicorn rides.
 
-6. **User Registration and Login:**
+7. **User Registration and Login:**
    - Integrate Amazon Cognito into your application to manage user authentication and provide registration and login functionalities.
 
-7. **Test and Deploy:**
+8. **Test and Deploy:**
    - Thoroughly test your application, ensuring that ride requests, user registration, and login functionalities work flawlessly.
    - Deploy your application using Amplify Console, making it accessible to users around the world.
 
