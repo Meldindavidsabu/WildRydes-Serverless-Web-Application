@@ -72,8 +72,7 @@ Follow these steps to bring your Wild Rydes Unicorn Rides Web Application to lif
    - Thoroughly test your application, ensuring that ride requests, user registration, and login functionalities work flawlessly.
    
    - Deploy your application using Amplify Console, making it accessible to users around the world.
-   
- <img width="953" alt="deployment" src="https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/f00b645f-02a7-49dc-b9a1-211f875f17bc">
+https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/d4e765ae-3f73-4d54-bbf4-a0121b0cab7e
 
 ## Embrace the Magic
 https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/e6f80c54-9858-4ad6-bdab-f67338172c5a
