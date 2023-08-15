@@ -4,7 +4,7 @@ A serverless web application using AWS Lambda, Amazon API Gateway, AWS Amplify, 
 
 Welcome to the Wild Rydes Unicorn Rides Web Application tutorial! In this project, you'll create a captivating serverless web application that lets users request magical unicorn rides from the Wild Rydes fleet. The application boasts an enticing HTML-based user interface, allowing users to pinpoint their desired pickup locations. Behind the scenes, a robust RESTful web service handles ride requests, dispatching nearby unicorns to fulfill users' dreams. Additionally, the application offers user registration and login functionalities to enhance the overall experience.
 
-![Wild Rydes Unicorn Rides](insert_image_url_here)
+![Wild Rydes Unicorn Rides](<img width="591" alt="wild rydes" src="https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/0c6605a4-cc52-470c-812f-7f3decbbf7f6">)
 
 ## Prerequisites
 
