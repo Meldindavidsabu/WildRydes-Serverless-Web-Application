@@ -39,6 +39,7 @@ Our application's frontend interacts with the backend through a public RESTful A
 Follow these steps to bring your Wild Rydes Unicorn Rides Web Application to life:
 
 1. **Clone the Repository:** Begin by cloning the repository to your local machine.
+   
 <img width="956" alt="resources on codecommit" src="https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/d07cf5c3-43c4-46e0-a5ed-ee6aa24cb81a">
 
 <img width="390" alt="git (original)" src="https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/ae5edc4a-73f1-46cc-b1e8-9cd1cd555c85">
@@ -46,7 +47,7 @@ Follow these steps to bring your Wild Rydes Unicorn Rides Web Application to lif
 2. **Setting up AWS Services:**
    - **Amplify Console:** Set up Amplify Console to host your static web resources. Configure deployment settings to ensure continuous deployment.
    - **Amazon Cognito:** Create a user pool to manage user registration and authentication.
-     <img width="956" alt="cognito " src="https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/7fec9bd1-cd3b-441a-9fc6-fab73ca96dd2">
+    <img width="956" alt="cognito " src="https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/7fec9bd1-cd3b-441a-9fc6-fab73ca96dd2">
      
    - **Amazon DynamoDB:** Establish a DynamoDB table to store ride request data.
 
@@ -72,7 +73,7 @@ Follow these steps to bring your Wild Rydes Unicorn Rides Web Application to lif
    
    - Deploy your application using Amplify Console, making it accessible to users around the world.
    
-     <img width="953" alt="deployment" src="https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/f00b645f-02a7-49dc-b9a1-211f875f17bc">
+ <img width="953" alt="deployment" src="https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/f00b645f-02a7-49dc-b9a1-211f875f17bc">
 
 ## Embrace the Magic
 https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/e6f80c54-9858-4ad6-bdab-f67338172c5a
