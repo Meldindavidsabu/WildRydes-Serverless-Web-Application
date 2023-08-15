@@ -72,7 +72,6 @@ Follow these steps to bring your Wild Rydes Unicorn Rides Web Application to lif
 
 7. **Test and Deploy:** 
 
-https://github.com/Meldindavidsabu/WildRydes-Serverless-Web-Application/assets/80899101/d4e765ae-3f73-4d54-bbf4-a0121b0cab7e
    - Thoroughly test your application, ensuring that ride requests, user registration, and login functionalities work flawlessly.
    
    - Deploy your application using Amplify Console, making it accessible to users around the world. 
